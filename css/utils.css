@@ -1,0 +1,29 @@
+.flex-all-center{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    height: 10vh;
+}
+.flex-all-center a{
+    color: white;
+}
+.flex-all-center .p{
+    display: flex;
+    justify-content: center;
+}
+.flex-all-center .h3{
+    display: flex;
+    justify-content: center;
+}
+
+.my-1{
+    margin: 26px 0;
+}
+.my-2{
+    margin: 5px 0;
+}
+
+.textcenter{
+    text-align: center;
+}
